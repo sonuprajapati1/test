@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonuprajapati1/test.git"
+  },
+  "author": "sonu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonuprajapati1/test/issues"
+  },
+  "homepage": "https://github.com/sonuprajapati1/test#readme"
+}
